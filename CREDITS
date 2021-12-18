@@ -1,0 +1,29 @@
+
+---
+
+{{int:version-credits-summary}}
+Seanpm2001/Tetris128 a collaborative project. It is released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of Tetris128
+2. No other contributors as of Friday, 2021 December 17th at 6:19 pm
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @GitHub (For GitHub, and for being the first host of this project)
+3. @GoDot (for the GoDot engine)
+4. @Python (for the Python programming language)
+5. @Rust (for the Rust programming language)
+6. bjarne stroustrup (for the C++ programming language)
+7. Tetris (for the Tetris game and idea)
+8. Cinema4D4U (for inspiring the softbody Tetris mode of this game)
+9, @Git (for the Git version control system)
+10. @Torvalds (for the Linux kernel)
+11. No other contributors as of Friday, 2021 December 17th at 6:19 pm
+
+---
