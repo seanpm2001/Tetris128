@@ -164,6 +164,12 @@ Party mix mode is a mix of all the polyominos, from dominos, trominoes, and tetr
 
 ***
 
+## Documentation
+
+The official documentation repository for this project is located [:octocat: `here`](https://github.com/seanpm2001/Tetris128_Docs/)
+
+***
+
 ## Wiki
 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Tetris128/wiki)
@@ -338,17 +344,19 @@ Contributions are allowed for this project, as long as you follow the rules of t
 
 ## File info:
 
-File type: `MarkDown file (*.md")`
+**File type:** `Markdown Document source file (*.md *.mkd *.mdown *.markdown)`
 
-File version: `2 (Wednesday, June 30th 2021 at 8:43 pm)`
+**File version:** `3 (2023, Monday, February 20th at 9:37 pm PST)`
 
-Line count (including blank lines and compiler line): `450`
+**Line count (including blank lines and compiler line):** `478`
 
 ***
 
 ## File history
 
 Version 1 (Saturday, May 30th 2020 at 11:59 pm)
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -369,6 +377,8 @@ Version 1 (Saturday, May 30th 2020 at 11:59 pm)
 > * No other changes in version 1
 
 Version 2 (Wednesday, June 30th 2021 at 8:43 pm)
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -420,11 +430,16 @@ Version 2 (Wednesday, June 30th 2021 at 8:43 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (2023, Monday, February 20th at 9:37 pm PST)
+
+**This release was created by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+- [x] Added the documentation section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- [ ] No other changes in version 3
 
 > * No other changes in version 3
 
@@ -432,9 +447,22 @@ Version 4 (Coming soon)
 
 > Changes:
 
-> * Coming soon
+- [ ] Coming soon
+- [ ] No other changes in version 4
 
-> * No other changes in version 4
+Version 5 (Coming soon)
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 6
 
 ***
 
